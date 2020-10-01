@@ -3,8 +3,8 @@ I'm **LoRy24**,a young developer. I like **Java**, **JavaScript** and **C#**. I 
 
 I mostly create **open source codes**, as I'm not a professional. Follow me to best support me!
 
-🌱 I’m currently learning **Java** for make cool projects
-🔭 I’m currently working on some softwares for my Communiti: The **EnJava Community**.
+- 🌱 I’m currently learning **Java** for make cool projects
+- 🔭 I’m currently working on some softwares for my Communiti: The **EnJava Community**.
 
 <!--
 **LoryTheRock24/LoryTheRock24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
