@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-I'm **LoRy24**,a young developer. I like **Java**, **JavaScript** and **C#**. I work mostly on **Windows software** made in **C#** or **Java**. Also, I love making **Minecraft Plugins**.
+I'm **LoRy24**, a young developer. I like **Java**, **JavaScript** and **C#**. I work mostly on **Windows software** made in **C#** or **Java**. Also, I love making **Minecraft Plugins**.
 
 I mostly create **open source codes**, as I'm not a professional. Follow me to best support me!
 
