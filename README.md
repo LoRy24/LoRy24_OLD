@@ -7,5 +7,4 @@ I've got a community named [EnJava](https://www.enjava.tk) and I'm currently wor
 I'm not a real PRO of Java or other languages, so I didn't make a lot of projects 😕 ... But I made some intresting projects such like 
 [Mandelbrot](https://github.com/LoryTheRock24/MandelbrotSet) or [PasswordGenerator](https://github.com/LoryTheRock24/PasswordGenerator).
 
-Here's an example of the MandelbrotSet created by me:
-![](https://i.ibb.co/CbQ6kf4/Mandelbrot-At-Home.png)
+![Here's an example of the MandelbrotSet created by me:](https://i.ibb.co/CbQ6kf4/Mandelbrot-At-Home.png)
