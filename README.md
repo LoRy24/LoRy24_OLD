@@ -1,22 +1,11 @@
-### Hi everyone! 👋
-I'm **LoRy24**, a young developer. I like **Java**, **JavaScript** and **C#**. I work mostly on **Windows software** made in **C#** or **Java**. Also, I love making **Minecraft Plugins**.
+# LoRy24
+#### Welcome to my profile 🥳!
+Who is me? I'm a Young developer 💻 that likes Java ☕️ and more programming languages! I made some public project like BugAv 🟦 and PunishmentsPlus 📛, but they aren't very great 🤣.
+I've got a community named [EnJava](https://www.enjava.tk) and I'm currently working at some projects for it.
 
-I mostly create **open source codes**, as I'm not a professional. Follow me to best support me!
+### So, which projects i made?
+I'm not a real PRO of Java or other languages, so I didn't make a lot of projects 😕 ... But I made some intresting projects such like 
+[Mandelbrot](https://github.com/LoryTheRock24/MandelbrotSet) or [PasswordGenerator](https://github.com/LoryTheRock24/PasswordGenerator).
 
-- 🌱 I’m currently learning **Java** for make cool projects
-- 🔭 I’m currently working on some software for my Community: The **EnJava Community**.
-
-<!--
-**LoryTheRock24/LoryTheRock24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's an example of the MandelbrotSet created by me:
+![](https://i.ibb.co/CbQ6kf4/Mandelbrot-At-Home.png)
