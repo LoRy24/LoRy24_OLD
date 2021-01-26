@@ -1,4 +1,4 @@
-# LoRy24
+# LoryTheRock24 - LoRy24
 #### Welcome to my profile 🥳!
 Who is me? I'm a Young developer 💻 that likes Java ☕️ and more programming languages! I made some public project like BugAv 🟦 and PunishmentsPlus 📛, but they aren't very great 🤣.
 I've got a community named [EnJava](https://www.enjava.tk) and I'm currently working at some projects for it.
