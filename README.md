@@ -11,7 +11,3 @@ I'm not a real PRO of Java or other languages, so I didn't make a lot of project
 📈 My **profile stats**:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoryTheRock24&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-📚 The **programming languages** I have used the most
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoryTheRock24&layout=compact" />
