@@ -4,7 +4,7 @@ I'm a young student that ❤️ programming in ☕️ Java & C#. I made some int
 
 ## So, which projects i made?
 I'm not a real PRO of Java or other languages, so I didn't make a lot of projects 😕 ... But I made some intresting softwares such like 
-[Mandelbrot](https://github.com/LoryTheRock24/MandelbrotSet) or [PasswordGenerator](https://github.com/LoryTheRock24/PasswordGenerator). And i also made some videogames, [Triangoll2](https://github.com/LoryTheRock24/PasswordGenerator) and [Jebab](https://github.com/LoryTheRock24/PasswordGenerator).
+[Mandelbrot](https://github.com/LoryTheRock24/MandelbrotSet) or [PasswordGenerator](https://github.com/LoryTheRock24/PasswordGenerator). And i also made some videogames, [Triangoll2](https://github.com/LoryTheRock24/Triangoll2) and [Jebab](https://github.com/LoryTheRock24/Jebab).
 
 ## Some others informations About Me:
 
