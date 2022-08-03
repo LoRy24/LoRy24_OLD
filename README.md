@@ -2,7 +2,7 @@
 
 <br>
 
-![My Lofi Avatar](https://github.com/LoRy24/LoRy24/blob/main/lofi_avatar.png)
+![My Lofi Avatar](https://github.com/LoRy24/LoRy24/blob/main/LoRy24Badge.png)
 
 ## About me
 
