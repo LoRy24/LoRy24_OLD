@@ -1,4 +1,4 @@
-# Hi! I'm **LoRy24** 👋
+# Welcome to my profile! I'm **LoRy24** 👋
 
 <br>
 
