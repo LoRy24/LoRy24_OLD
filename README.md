@@ -6,9 +6,9 @@
 
 ## About me
 
-I'm an Italian 🍕 programmer, and my passion is of course the tech world 💻. I've made some public projects, for example the [Mandelbrot Fractal](https://github.com/LoRy24/MandelbrotSet) and a [PasswordGenerator](https://github.com/LoRy24/PasswordGenerator). 
+I'm an Italian 🍕 Full Stack Developer, and my passion is of course the tech world 💻. I've made some public projects, for example the [Mandelbrot Fractal](https://github.com/LoRy24/MandelbrotSet) and a [PasswordGenerator](https://github.com/LoRy24/PasswordGenerator). 
 I've also made two (maybe) interesting videogames: [Triangoll2](https://github.com/LoRy24/Triangoll2) and [Jebab](https://github.com/LoRy24/Jebab). <br>
-**I'm currently working as Owner of AquariusMC.**
+**I'm also one of the Owners of AquariusMC**
 
 ## Profile stats
 
