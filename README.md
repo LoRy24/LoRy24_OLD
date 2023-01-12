@@ -1,4 +1,6 @@
 <h1 align="center" style="text-decorations: none; text-align: center; font-size: 48px; font-family: consolas; margin-top: 105px; margin-bottom: 0px;">Welcome!</h1>
+
+
 <p align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b>, also known as <b>LoRy24</b></p>
 <p>
 
@@ -28,4 +30,10 @@
 
 <p align="center" style="">
     <img src="./KnownLoRy24Languages.png" style="width: 650px; margin-top: 25px; margin-bottom: 105px;">
+</p>
+
+<p align="center" style="text-decorations: none; text-align: center; font-size: 24px; font-family: consolas; margin-top: 75px; margin-bottom: 5px">📒 GitHub Stats:</p>
+
+<p align="center" style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=LoRy24&count_private=true">
 </p>
