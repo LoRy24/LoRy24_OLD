@@ -3,7 +3,7 @@
 </h1>
 
 
-<h4 align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b>, also known as <b>LoRy24</b></p>
+<h4 align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b>, also known as <b>LoRy24</b>. I'm a programmer since I was a teenager. ❤️ Open source and complex systems. See my career for more details 😉</p>
 <h4>
 
 <p align="center" style="margin-bottom: 105px;">
