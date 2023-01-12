@@ -1,5 +1,5 @@
 <h1 align="center" style="text-decorations: none; text-align: center; font-size: 48px; font-family: consolas; margin-top: 105px; margin-bottom: 0px;">Welcome!</h1>
-<h2 align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b> 👋</h2>
+<p align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b> 👋</p>
 <p>
 
 <p align="center" style="margin-bottom: 105px;">
