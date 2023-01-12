@@ -11,7 +11,7 @@
     <a href="https://discord.lory24.dev/">Discord</a>
 </p>
 
-<p align="center" style="text-decorations: none; text-align: center; font-size: 20px; font-family: consolas; margin-top: 0px; margin-bottom: 24px">📊 Stats:</p>
+<h3 align="center" style="text-decorations: none; text-align: center; font-size: 20px; font-family: consolas; margin-top: 0px; margin-bottom: 24px">📊 Stats:</h3>
 
 <p align="center" align="center">
     <img src="https://custom-icon-badges.demolab.com/github/followers/LoRy24?color=%23307CE8&label=FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=people&logoColor=white&labelColor=2366C8">
