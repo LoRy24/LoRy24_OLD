@@ -1,8 +1,8 @@
-<h1 align="center" style="text-decorations: none; text-align: center; font-size: 48px; font-family: consolas; margin-top: 105px; margin-bottom: 0px;">Welcome!</h1>
+<h1 align="center" style="text-decorations: none; text-align: center; font-size: 48px; font-family: consolas; margin-top: 105px; margin-bottom: 0px;"><br>Welcome!</h1> <br>
 
 
-<p align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b>, also known as <b>LoRy24</b></p>
-<p>
+<h4 align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b>, also known as <b>LoRy24</b></p>
+<h4>
 
 <p align="center" style="margin-bottom: 105px;">
     <a href="https://www.youtube.com/@LoRy24">YouTube</a> •
