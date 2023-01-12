@@ -1,15 +1,41 @@
-# Welcome to my profile! I'm **LoRy24** 👋
-
+<h1 align="center" style="text-decorations: none; text-align: center; font-size: 48px; font-family: consolas; margin-top: 105px; margin-bottom: 0px;"><br>Welcome!
 <br>
+</h1>
 
-<img src="https://github.com/LoRy24/LoRy24/blob/main/LoRy24Badge.png" style="width: 100%">
 
-## About me
+<h4 align="center" style="text-decorations: none; text-align: center; font-size: 36px; font-family: consolas; margin-top: 0px; margin-bottom: 0px">This is <b>Lorenzo Rocca</b>, also known as <b>LoRy24</b></p>
+<h4>
 
-I'm an Italian 🍕 Full Stack Developer, and my passion is of course the tech world 💻. I've made some public projects, for example the [Mandelbrot Fractal](https://github.com/LoRy24/MandelbrotSet) and a [PasswordGenerator](https://github.com/LoRy24/PasswordGenerator). 
-I've also made two (maybe) interesting videogames: [Triangoll2](https://github.com/LoRy24/Triangoll2) and [Jebab](https://github.com/LoRy24/Jebab). <br>
-**I'm also one of the Owners of AquariusMC**
+<p align="center" style="margin-bottom: 105px;">
+    <a href="https://www.youtube.com/@LoRy24">YouTube</a> •
+    <a href="https://www.instagram.com/lory24_yt/">Instagram</a> •
+    <a href="https://www.lory24.dev/">Website</a> •
+    <a href="https://discord.lory24.dev/">Discord</a>
+</p>
 
-## Profile stats
+<h3 align="center" style="text-decorations: none; text-align: center; font-size: 20px; font-family: consolas; margin-top: 0px; margin-bottom: 24px">📊 Stats:</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoRy24&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center" align="center">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/LoRy24?color=%23307CE8&label=FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=people&logoColor=white&labelColor=2366C8">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/LoRy24?color=2FCB4A&label=STARS&logoColor=%23296DCE&style=for-the-badge&logo=star&logoColor=white&labelColor=26BB40">
+    <img src="https://custom-icon-badges.demolab.com/twitch/status/lory24tv?color=BA40EB&label=TWITCH&logoColor=%23296DCE&style=for-the-badge&logo=broadcast&logoColor=white&labelColor=B239E2">
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjKLx6ToIBhAMjlMvgbnWyw?color=EE3939&label=YOUTUBE%20FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=video&logoColor=white&labelColor=DA2F2F">
+</p>
+
+<h3 align="center" style="text-decorations: none; text-align: center; font-size: 24px; font-family: consolas; margin-top: 45px; margin-bottom: 5px">📜 My Career (Briefing):</h3>
+
+<p align="center" style="text-decorations: none; text-align: center; font-size: 16px; font-family: consolas; margin-bottom: 24px">
+    My real career started about 3/4 years ago, after I've made a lot of experience with almost all the fundaments of the Computer Science. In the past time, I've worked mostly on Java development (Spigot and Software Development), but with my experience I can identify myself as a <b>Full Stack Developer</b>, because I'm in the position of code Front-End and Back-End systems. Little secret: I love 😍 working with complex systems!
+</p>
+
+<h3 align="center" style="text-decorations: none; text-align: center; font-size: 24px; font-family: consolas; margin-top: 75px; margin-bottom: 5px">📚 I can work with or I'm studying:</h3>
+
+<p align="center" style="">
+    <img src="./KnownLoRy24Languages.png" style="width: 650px; margin-top: 25px; margin-bottom: 105px;">
+</p>
+
+<h3 align="center" style="text-decorations: none; text-align: center; font-size: 24px; font-family: consolas; margin-top: 75px; margin-bottom: 5px">📒 GitHub Stats:</h3>
+
+<p align="center" style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=LoRy24&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
+</p>
