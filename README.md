@@ -29,7 +29,7 @@
 <br>
 
 <p align="center" style="text-decorations: none; text-align: center; font-size: 16px; font-family: consolas; margin-bottom: 24px">
-    My real career started around 2019, after I've made a lot of experience with almost all the fundaments of the Computer Science. In the past time, I've worked mostly on Java development (Spigot and Software Development), but with my experience I can identify myself as a <b>Full Stack Developer</b>, because I'm in the position of code and work with Front-End and Back-End systems. Little secret: I love 😍 working with complex systems!
+    My real career started around 2020-2021, after I've made a lot of experience with almost all the fundaments of the Computer Science. In the past time, I've worked mostly on Java development (Spigot and Software Development), but with my experience I can identify myself as a <b>Full Stack Developer</b>, because I'm in the position of code and work with Front-End and Back-End systems. Little secret: I love 😍 working with complex systems!
 </p>
 <br>
 
