@@ -40,10 +40,14 @@
     <img src="./KnownLoRy24Languages.png" style="width: 650px; margin-top: 25px; margin-bottom: 105px;">
 </p>
 
+<!--
+
 <br>
 <h3 align="center" style="text-decorations: none; text-align: center; font-size: 24px; font-family: consolas; margin-top: 75px; margin-bottom: 5px">📒 GitHub Stats:</h3>
 <br>
 
 <p align="center" style="">
     <img src="https://github-readme-stats.vercel.app/api?username=LoRy24&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-</p>
+</p> 
+
+-->
