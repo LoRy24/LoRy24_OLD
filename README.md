@@ -22,6 +22,8 @@
     <img src="https://custom-icon-badges.demolab.com/github/stars/LoRy24?color=2FCB4A&label=STARS&logoColor=%23296DCE&style=for-the-badge&logo=star&logoColor=white&labelColor=26BB40">
     <img src="https://custom-icon-badges.demolab.com/twitch/status/lory24tv?color=BA40EB&label=TWITCH&logoColor=%23296DCE&style=for-the-badge&logo=broadcast&logoColor=white&labelColor=B239E2">
     <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjKLx6ToIBhAMjlMvgbnWyw?color=EE3939&label=YOUTUBE%20FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=video&logoColor=white&labelColor=DA2F2F">
+    <br>
+    <img src="https://www.codewars.com/users/LoRy24/badges/large">
 </p>
 <br>
 
